@@ -1,0 +1,15 @@
+.main {
+  max-height: 100vh !important;
+}
+
+.category-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.category-wrapper a {
+  text-decoration: none;
+  color: #000;
+}

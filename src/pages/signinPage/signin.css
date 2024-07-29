@@ -1,0 +1,7 @@
+.col_background {
+  background-image: url("../../../public/assets/imgs/bg_img.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: right top;
+  height: 100vh;
+}
